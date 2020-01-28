@@ -10,7 +10,7 @@ import logging
 
 
 
-@borg.on(events.NewMessage(pattern=r"\.(.*)", outgoing=True))
+@register(outgoing=True, pattern="\.(.*)", outgoing=True))
 
 async def _(event):
 
