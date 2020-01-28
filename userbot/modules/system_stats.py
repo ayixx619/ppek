@@ -126,6 +126,7 @@ async def amireallyalive(on):
                      "Put Your Kitsune Up 🦊 \n"
                      " \n"
                      "ベビーメタルDEATH! \n"
+                     " \n"
                      f"Telethon version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
                      f"------------------------------------ \n"
